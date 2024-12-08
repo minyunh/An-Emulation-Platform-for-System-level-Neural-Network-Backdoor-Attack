@@ -1,3 +1,5 @@
+crala: https://github.com/carla-simulator/carla.git
+
 # 1. Compile the server
 
 - `cd ~/carla`
