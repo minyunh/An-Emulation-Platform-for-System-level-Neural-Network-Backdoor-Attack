@@ -114,5 +114,4 @@ https://hackmd.io/Xn8EqrPlTwy2TgUP7NWM2Q
     - python3 -m pip install -r requirements.txt
     - pip3 install shapely
     - pip3 isntall networkx
-    - 
     - If the simulation is running at a very low FPS rate, go to Edit -> Editor preferences -> Performance in the Unreal Engine editor and disable Use less CPU when in background.
