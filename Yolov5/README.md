@@ -1,6 +1,6 @@
 
 
-fork yolov5
+yolov5: https://github.com/ultralytics/yolov5.git
 
 ``` python train.py --data data.yaml --epochs 10 --weights '' --cfg yolov5l.yaml --batch-size -1 --name ```
 
